@@ -1,0 +1,6 @@
+https://github.com/MSDR/Projects-in-ML-and-AI/tree/main/HW2
+
+or
+
+https://colab.research.google.com/drive/1mdmikgrhPgkrU3GDw1POfZagBMYmM3jz?usp=sharing
+In colab, metrics may show slightly different results in different runtimes.
