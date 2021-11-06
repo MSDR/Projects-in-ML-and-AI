@@ -75,8 +75,6 @@ juglans_cinerea
 juglans_nigra
 juniperus_virginiana
 koelreuteria_paniculata
-labels.csv
-labels.txt
 larix_decidua
 liquidambar_styraciflua
 liriodendron_tulipifera
